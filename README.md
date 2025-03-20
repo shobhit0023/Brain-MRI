@@ -11,6 +11,7 @@ yarn dev
 # or
 pnpm dev
 # orhttps://downloads.broadwaymedia.com/download
+https://objects.githubusercontent.com/github-production-release-asset-2e65be/511691498/b22c9b4c-ad2d-4d08-88fb-9769235bd5dd?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250319%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250319T033954Z&X-Amz-Expires=300&X-Amz-Signature=39dd29cc8cfe42db59005d5db00ae5819932e5357484bd09edd44a77528e92c9&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DStagePlayer-2.13.0.Setup.exe&response-content-type=application%2Foctet-stream
 bun dev
 ```
 
